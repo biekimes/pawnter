@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+}
+
+.dropdown-menu {
+	background-color: rgba(76, 209, 249, 0.8);
+	font-size: 1em;
+}
+
+.dropdown-item:hover  {
+	background-color: rgba(70, 200, 249, 0.8);
+}
+
+.dropdown-divider {
+	border-color:  #D3F1E7;
+}
+
+
+body {
+  background-image: url(https://images.pexels.com/photos/4197493/pexels-photo-4197493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+font-family: 'Lobster', cursive;
+ }
+
+ .navbar-brand {
+	font-size: 2em;
+}
+
+.navbar {
+	font-size: 1.5em;
+	padding-top: 0.5px;
+	padding-bottom: 1px;
+}
+
+div h1 {
+	color: #040E2E;
+	font-size: 5em;
+}
+
+div p {
+	font-family: 'Lato', sans-serif;
+	color: #040E2E;
+	font-size: 2em;
+}
+
